@@ -17,3 +17,7 @@ Nesta primeira etapa foi criado três extratores utilizando o método  web scrap
 
 
 
+EM CONSTRUÇÃO....
+
+
+

@@ -15,9 +15,13 @@ Nesta primeira etapa foi criado três extratores utilizando o método  web scrap
   2. O extrator dos KOM (King of Mountain), esse extrator buscava os dados dos segmentos que eu estava em 1º lugar no dia da extração dos dados.
   3. Por último, o extrator dos TOP 10, esse extrator buscava os dados dos segmentos que eu estava entre os 10 primeiros no dia da extração dos dados.
 
+### 2 - Limpeza e Tratamento dos dados
+Nesta etapa, realizei o tratamento dos dados, formatei as datas e adicionei novas colunas para análises posteriores.
+
+### 3 - Dashboard Interativo em Power BI
+Criei este primeiro dashboard, que ainda é provisório. Neste dashboard tem análises gerais dos meus dados esportivos.
 
 
-EM CONSTRUÇÃO....
 
 
 

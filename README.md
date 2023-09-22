@@ -20,7 +20,7 @@ Nesta etapa, realizei o tratamento dos dados, formatei as datas e adicionei nova
 
 ### 3 - Dashboard Interativo em Power BI
 Criei este primeiro dashboard, que ainda é provisório. Neste dashboard tem análises gerais dos meus dados esportivos. Este dashboard é interativo, onde pode filtrar os dados no menu lateral esquerdo.
-![powerbi](https://github.com/bonfimdoprado/Projeto-Strava/assets/119675645/f568a15e-b903-4440-bc1d-116838cf8b88)
+![powerbi](https://github.com/bonfimdoprado/Projeto-Strava/assets/119675645/01ad97e9-ecea-4f73-99e2-be99a983b3fd)
 
 ### 4 - Análise em Python
  Em construção...

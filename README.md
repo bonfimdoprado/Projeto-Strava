@@ -5,7 +5,7 @@
 
 
 ## Descrição do Projeto </h1>
-Este projeto tem como objetivo fazer a extração dos meus dados esportivos, realizar a limpeza e preparação dos dados, explorar os dados por meio de análises exploratórias, fazer um predição dos dados e criar dashboards interativos.
+Este projeto tem como foco a extração, limpeza e preparação dos dados esportivos do Strava, seguido por análises exploratórias e a criação de dashboards interativos. Além de explorar os dados, o projeto visa melhorar a experiência do usuário ao oferecer um sistema de recomendações personalizadas de rotas para pedaladas em Guaxupé/MG, facilitadas por um executável (.exe) que simplifica o processo de busca. Em resumo, o projeto não apenas analisa dados esportivos, mas também enriquece a experiência do usuário com informações úteis e recomendações práticas.
 
 ## Informações do Projeto:
 
@@ -27,16 +27,9 @@ Criei este primeiro dashboard, que ainda é provisório. Neste dashboard tem an�
 Este script em Python foi desenvolvido como parte de um sistema de recomendação de rotas para pedalada em Guaxupé/MG, usando dados do Strava. O código estabelece margens para encontrar atividades semelhantes dentro do banco de dados existente.,  solicita entrada do usuário para novos dados e encontra atividades semelhantes no banco de dados. As recomendações são filtradas por distância, elevação e tempo de movimentação. O resulta são 5 atividades recomendadas pelo sistemta.
 ![codigo recomendacao](https://github.com/bonfimdoprado/Projeto-Strava/assets/119675645/27bdec7b-863e-45f6-8942-9e2ba0e7bf86)
 
-
 Simplificando a busca por rotas de pedal, desenvolvi um executável (.exe) para evitar a necessidade de executar o código manualmente. Ao clicar no ícone, um prompt de comando será aberto, permitindo a inserção fácil dos dados para obter recomendações. Este executável oferece uma experiência mais amigável para os usuários que desejam encontrar rotas de forma rápida e intuitiva.
+![exec recomendacao](https://github.com/bonfimdoprado/Projeto-Strava/assets/119675645/2824a75a-0229-4bd8-a9c2-9d8ccceee246)
 
-
-
-Verificar texto
-
-
-
-![exec recomendacao](https://github.com/bonfimdoprado/Projeto-Strava/assets/119675645/6e7b7a5e-8b32-4ca6-a8ee-ca29b102dc33)
 
 
 

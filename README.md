@@ -23,11 +23,12 @@ Criei este primeiro dashboard, que ainda é provisório. Neste dashboard tem an�
 ![powerbi](https://github.com/bonfimdoprado/Projeto-Strava/assets/119675645/08ae8bbf-f632-40f4-a2c3-aa797b0ccc8d)
 
 
-### 4 - Análise em Python
- Em construção...
+### 4 - Recomendação de Rotas
+Este script em Python foi desenvolvido como parte de um sistema de recomendação de rotas para pedalada em Guaxupé/MG, usando dados do Strava. O código estabelece margens para encontrar atividades semelhantes dentro do banco de dados existente.,  solicita entrada do usuário para novos dados e encontra atividades semelhantes no banco de dados. As recomendações são filtradas por distância, elevação e tempo de movimentação. O resulta são 5 atividades recomendadas pelo sistemta.
+![codigo recomendacao](https://github.com/bonfimdoprado/Projeto-Strava/assets/119675645/473fd7db-5d53-4739-8974-4d4c48495a92)
 
-### 5 Machine Learning
- Em construção...
+
+
 
 
 

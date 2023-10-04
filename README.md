@@ -28,6 +28,18 @@ Este script em Python foi desenvolvido como parte de um sistema de recomendaçã
 ![codigo recomendacao](https://github.com/bonfimdoprado/Projeto-Strava/assets/119675645/27bdec7b-863e-45f6-8942-9e2ba0e7bf86)
 
 
+Simplificando a busca por rotas de pedal, desenvolvi um executável (.exe) para evitar a necessidade de executar o código manualmente. Ao clicar no ícone, um prompt de comando será aberto, permitindo a inserção fácil dos dados para obter recomendações. Este executável oferece uma experiência mais amigável para os usuários que desejam encontrar rotas de forma rápida e intuitiva.
+
+
+
+Verificar texto
+
+
+
+![exec recomendacao](https://github.com/bonfimdoprado/Projeto-Strava/assets/119675645/6e7b7a5e-8b32-4ca6-a8ee-ca29b102dc33)
+
+
+
 
 
 
